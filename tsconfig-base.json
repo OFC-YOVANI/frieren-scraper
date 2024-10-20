@@ -1,0 +1,17 @@
+{
+  "display": "BASE",
+  "compilerOptions": {
+      "removeComments": true,
+      "declaration": true,
+      "sourceMap": false,
+      "declarationMap": false,
+      "esModuleInterop": true,
+      "checkJs": true,
+      "target": "ES2021",
+      "moduleResolution": "node",
+      "strict": true,
+      "allowJs": true,
+  },
+  "exclude": ["node_modules", "dist"],
+  "include": ["src"]
+}
